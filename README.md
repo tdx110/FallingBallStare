@@ -2,7 +2,7 @@
 
 Jest to stara wersja pokazowa.
 
-Obecnie orzebudowana jest i zrobiona w większości za pomocą Canvas.
+Obecnie jest przebudowywana i zrobiona w większości za pomocą Canvas.
 
 Jest to wersja 0.3.29
 
